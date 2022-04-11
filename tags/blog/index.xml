@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>BLOG on 1WenBlog</title>
-    <link>https://kevin32456.github.io/tags/blog/</link>
+    <link>https://blog.1wenzone.com/tags/blog/</link>
     <description>Recent content in BLOG on 1WenBlog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 08 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://kevin32456.github.io/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 08 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.1wenzone.com/tags/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>第一篇部落格就先介紹自己吧</title>
-      <link>https://kevin32456.github.io/2022/04/08/hellow-world/</link>
+      <link>https://blog.1wenzone.com/2022/04/08/hellow-world/</link>
       <pubDate>Fri, 08 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://kevin32456.github.io/2022/04/08/hellow-world/</guid>
+      <guid>https://blog.1wenzone.com/2022/04/08/hellow-world/</guid>
       <description>標題 內容</description>
     </item>
     
     <item>
       <title>Service Mesh 和 API Gateway的关系探讨（译文）</title>
-      <link>https://kevin32456.github.io/2018/04/11/service-mesh-vs-api-gateway/</link>
+      <link>https://blog.1wenzone.com/2018/04/11/service-mesh-vs-api-gateway/</link>
       <pubDate>Wed, 11 Apr 2018 09:32:00 +0000</pubDate>
       
-      <guid>https://kevin32456.github.io/2018/04/11/service-mesh-vs-api-gateway/</guid>
+      <guid>https://blog.1wenzone.com/2018/04/11/service-mesh-vs-api-gateway/</guid>
       <description>Service Mesh vs API Gateway 在前一篇关于Service Mesh的文章中,我提到了几个关于Service Mesh和API Gateway之间关系的问题，在本篇文章</description>
     </item>
     

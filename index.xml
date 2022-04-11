@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>1WenBlog</title>
-    <link>https://kevin32456.github.io/</link>
+    <link>https://blog.1wenzone.com/</link>
     <description>Recent content on 1WenBlog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 08 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://kevin32456.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 08 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.1wenzone.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>第一篇部落格就先介紹自己吧</title>
-      <link>https://kevin32456.github.io/2022/04/08/hellow-world/</link>
+      <link>https://blog.1wenzone.com/2022/04/08/hellow-world/</link>
       <pubDate>Fri, 08 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://kevin32456.github.io/2022/04/08/hellow-world/</guid>
+      <guid>https://blog.1wenzone.com/2022/04/08/hellow-world/</guid>
       <description>標題 內容</description>
     </item>
     
     <item>
       <title>Service Mesh 和 API Gateway的关系探讨（译文）</title>
-      <link>https://kevin32456.github.io/2018/04/11/service-mesh-vs-api-gateway/</link>
+      <link>https://blog.1wenzone.com/2018/04/11/service-mesh-vs-api-gateway/</link>
       <pubDate>Wed, 11 Apr 2018 09:32:00 +0000</pubDate>
       
-      <guid>https://kevin32456.github.io/2018/04/11/service-mesh-vs-api-gateway/</guid>
+      <guid>https://blog.1wenzone.com/2018/04/11/service-mesh-vs-api-gateway/</guid>
       <description>Service Mesh vs API Gateway 在前一篇关于Service Mesh的文章中,我提到了几个关于Service Mesh和API Gateway之间关系的问题，在本篇文章</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://kevin32456.github.io/top/about/</link>
+      <link>https://blog.1wenzone.com/top/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://kevin32456.github.io/top/about/</guid>
+      <guid>https://blog.1wenzone.com/top/about/</guid>
       <description>Huabing Zhao is an ICT veteran with a passion for open source. He has a solid experience in the telecommunication and information technology industry for more than 17 years. Throughout his career, he has built a number of large-scale, cross-country OSS/BSS platforms/systems and operation tools, most of them are still running in productions. He loves open source and has been contributing to a variety of open source projects, including Istio(Service</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://kevin32456.github.io/top/books/</link>
+      <link>https://blog.1wenzone.com/top/books/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://kevin32456.github.io/top/books/</guid>
+      <guid>https://blog.1wenzone.com/top/books/</guid>
       <description>Machine learning学习笔记 Coursera 在线课程 Machine learning 笔记讲师: 吴恩达(Andrew Ng) 课程地址：https://www.coursera.org/lear</description>
     </item>
     
     <item>
       <title>歷史文章</title>
-      <link>https://kevin32456.github.io/top/archive/</link>
+      <link>https://blog.1wenzone.com/top/archive/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://kevin32456.github.io/top/archive/</guid>
+      <guid>https://blog.1wenzone.com/top/archive/</guid>
       <description></description>
     </item>
     

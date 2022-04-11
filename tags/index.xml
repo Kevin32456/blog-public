@@ -2,44 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on 1WenBlog</title>
-    <link>https://kevin32456.github.io/tags/</link>
+    <link>https://blog.1wenzone.com/tags/</link>
     <description>Recent content in Tags on 1WenBlog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 08 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://kevin32456.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 08 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.1wenzone.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>BLOG</title>
-      <link>https://kevin32456.github.io/tags/blog/</link>
+      <link>https://blog.1wenzone.com/tags/blog/</link>
       <pubDate>Fri, 08 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://kevin32456.github.io/tags/blog/</guid>
+      <guid>https://blog.1wenzone.com/tags/blog/</guid>
       <description></description>
     </item>
     
     <item>
       <title>API Gateway</title>
-      <link>https://kevin32456.github.io/tags/api-gateway/</link>
+      <link>https://blog.1wenzone.com/tags/api-gateway/</link>
       <pubDate>Wed, 11 Apr 2018 09:32:00 +0000</pubDate>
       
-      <guid>https://kevin32456.github.io/tags/api-gateway/</guid>
+      <guid>https://blog.1wenzone.com/tags/api-gateway/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Microservice</title>
-      <link>https://kevin32456.github.io/tags/microservice/</link>
+      <link>https://blog.1wenzone.com/tags/microservice/</link>
       <pubDate>Wed, 11 Apr 2018 09:32:00 +0000</pubDate>
       
-      <guid>https://kevin32456.github.io/tags/microservice/</guid>
+      <guid>https://blog.1wenzone.com/tags/microservice/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Service Mesh</title>
-      <link>https://kevin32456.github.io/tags/service-mesh/</link>
+      <link>https://blog.1wenzone.com/tags/service-mesh/</link>
       <pubDate>Wed, 11 Apr 2018 09:32:00 +0000</pubDate>
       
-      <guid>https://kevin32456.github.io/tags/service-mesh/</guid>
+      <guid>https://blog.1wenzone.com/tags/service-mesh/</guid>
       <description></description>
     </item>
     
